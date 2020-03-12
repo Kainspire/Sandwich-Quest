@@ -1,0 +1,32 @@
+Unity Life (this teaches a lot about 
+https://learn.unity.com/tutorial/c-delegates?projectId=5cf069dfedbc2a5adef4544d
+
+
+
+https://learn.unity.com/tutorial/movement-basics
+
+A few things to definitely learn ASAP
+
+importing sprites and working to place them in an environment
+plan assets
+making an interactable gui for stuff (think like an inventory and also an encounter system)
+
+2d physics!
+
+How Prefabs (reusable assets) work
+https://learn.unity.com/tutorial/prefabs-2019
+
+
+Introduction to Unity2D(UFO Project)
+
+Creating Objects
+https://learn.unity.com/tutorial/creating-objects
+
+Skeletal animation
+https://learn.unity.com/tutorial/skeletal-animation-with-anima2d
+
+CAMERA
+https://learn.unity.com/tutorial/controlling-unity-camera-behaviour-2019-3
+_________________________________________________
+Project Outlines
+
